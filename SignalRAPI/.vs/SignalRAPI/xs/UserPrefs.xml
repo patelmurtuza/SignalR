@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FB0390C7-0471-47BB-8B88-24450E09FA8F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SignalRAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRAPI/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="SignalRAPI/Controllers/WeatherForecastController.cs" Line="27" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRAPI" expanded="True">
+            <Node name="SignalRAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
